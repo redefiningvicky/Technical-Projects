@@ -1,10 +1,10 @@
 # 📁 Vicky's Portfolio
 Welcome to my portfolio! <p>
 ## 📑 Table of Contents <br>
-• C++  <p>
-• Python  <p>
-• R  <p>
-• ArcGIS  <p>
+• [C++](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-c-)  <p>
+• [Python](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
+• [R](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
+• [ArcGIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 # 💻 C++ <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
