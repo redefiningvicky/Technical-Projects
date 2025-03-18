@@ -29,7 +29,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | Content Cell  | Content Cell  | Content Cell  |
 
 ---
 # 🌍 ArcGIS Online <br>
@@ -57,7 +57,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | December 2024  | Content Cell  | Content Cell  |
+| [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | December 2024  | Content Cell  | Content Cell  |
 
 ---
 # ⚙️ Arduino <br>
