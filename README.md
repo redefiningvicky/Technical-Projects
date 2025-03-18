@@ -7,7 +7,10 @@ Welcome to my portfolio! <p>
 • [ArcGIS Online](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-online-)  <p>
 • [ArcGIS Pro](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-pro-)  <p>
 • [ArcGIS StoryMaps](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-storymaps-)  <p>
-• [Arduino](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arduino-)  <p> <p>
+• [PSPP](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-pspp-)  <p> 
+• [Arduino](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arduino-)  <p> 
+
+<p>
 # 💻 C++ <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
@@ -47,7 +50,14 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | December 2024  | Content Cell  | Content Cell  |
+
+---
+# 📊 PSPP <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | December 2024  | Content Cell  | Content Cell  |
 
 ---
 # ⚙️ Arduino <br>
