@@ -8,8 +8,9 @@ Welcome to my portfolio! <p>
 • [ArcGIS Pro](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-pro-)  <p>
 • [ArcGIS StoryMaps](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-storymaps-)  <p>
 • [PSPP](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-pspp-)  <p> 
-• [Arduino](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arduino-)  <p> <p>
+• [Arduino](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arduino-)  <p>
 
+---
 # 💻 C++ <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
