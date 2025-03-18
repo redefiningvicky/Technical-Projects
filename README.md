@@ -29,7 +29,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | Content Cell  | Content Cell  | Content Cell  |
+| [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | March 2024  | Content Cell  | Content Cell  |
 
 ---
 # 🌍 ArcGIS Online <br>
