@@ -15,7 +15,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | June 2024  | C++  | Content Cell  |
 
 ---
 # 🐍 Python <br>
@@ -29,14 +29,14 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | March 2024  | Content Cell  | Content Cell  |
+| [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | March 2024  | R, ArcGIS StoryMaps  | Content Cell  |
 
 ---
 # 🌍 ArcGIS Online <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | August 2024 | ArcGIS Online, ArcGIS StoryMaps  | Content Cell  |
 
 ---
 # 🖥️ ArcGIS Pro <br>
@@ -50,14 +50,14 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | December 2024  | Content Cell  | Content Cell  |
+| [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | December 2024  | ArcGIS StoryMaps  | Content Cell  |
 
 ---
 # 📊 PSPP <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | December 2024  | Content Cell  | Content Cell  |
+| [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | December 2024  | PSPP  | Content Cell  |
 
 ---
 # ⚙️ Arduino <br>
