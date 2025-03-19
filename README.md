@@ -5,7 +5,7 @@ Welcome to my portfolio! <p>
 • [Python](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [R](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [Microsoft Excel](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-microsoft-excel-)  <p> 
-• [ArcGIS Online](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-online-)  <p>
+• [ArcGIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-)  <p>
 
 ---
 # 💻 C++ <br>
@@ -36,7 +36,7 @@ Welcome to my portfolio! <p>
 | [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | December 2024  | Microsoft Excel, PSPP  |   |
 
 ---
-# 🌍 ArcGIS Online <br>
+# 🌍 ArcGIS <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
