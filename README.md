@@ -6,7 +6,6 @@ Welcome to my portfolio! <p>
 • [R](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [ArcGIS Online](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-online-)  <p>
 • [ArcGIS Pro](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-pro-)  <p>
-• [ArcGIS StoryMaps](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-storymaps-)  <p>
 • [PSPP](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-pspp-)  <p> 
 • [Arduino](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arduino-)  <p>
 
@@ -37,20 +36,14 @@ Welcome to my portfolio! <p>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | August 2024 | ArcGIS Online, ArcGIS StoryMaps  |   |
-
+| [🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan](https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten)  | August 2024 | ArcGIS Online, ArcGIS Dashboard  |   |
+| [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | December 2024  | ArcGIS Online, ArcGIS StoryMaps  |   |
 ---
 # 🖥️ ArcGIS Pro <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 |   |   |   |   |
-
----
-# 🗺️ ArcGIS StoryMaps <br>
-
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | December 2024  | ArcGIS StoryMaps  |   |
 
 ---
 # 📊 PSPP <br>
