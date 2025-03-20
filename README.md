@@ -12,7 +12,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | April 2024  | C++, Tinkercad  | TBD  |
+| [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad  | TBD  |
 | [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | June 2024  | C++, Tinkercad, Arduino  | TBD  |
 
 ---
@@ -27,22 +27,22 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | March 2024  | R, ArcGIS Online, ArcGIS StoryMaps  |   |
+| [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | Mar 2024  | R, ArcGIS Online, ArcGIS StoryMaps  |   |
 
 ---
 # 📊 Microsoft Excel <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | December 2024  | Microsoft Excel, PSPP  |   |
+| [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | Dec 2024  | Microsoft Excel, PSPP  |   |
 
 ---
 # 🌍 ArcGIS <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | August 2024 | ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel  |   |
-| [🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan](https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten)  | August 2024 | ArcGIS Online, ArcGIS Dashboard  |   |
-| [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | December 2024  | ArcGIS Online, ArcGIS StoryMaps  |   |
+| [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | Aug 2024 | ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel  |   |
+| [🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan](https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten)  | Aug 2024 | ArcGIS Online, ArcGIS Dashboard  |   |
+| [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | Dec 2024  | ArcGIS Online, ArcGIS StoryMaps  |   |
 
 ---
