@@ -28,6 +28,7 @@ Welcome to my portfolio! <p>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | Mar 2024  | R, ArcGIS Online, ArcGIS StoryMaps  |   |
+| [🔬 R Neurohacking](https://github.com/redefiningvicky/R-Neurohacking)  | Mar 2025  | R  |   |
 
 ---
 # 📊 Microsoft Excel <br>
