@@ -20,7 +20,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-|   |   |   |   |
+| TBD  | May 2025  | Python  | TBD  |
 
 ---
 # 🔵 R <br>
