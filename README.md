@@ -1,19 +1,11 @@
 # 📁 Vicky's Portfolio
 Welcome to my portfolio! <p>
 ## 📑 Table of Contents <br>
-• [C++](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-c-)  <p>
 • [Python](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [R](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
+• [C++](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-c-)  <p>
 • [Microsoft Excel](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-microsoft-excel-)  <p> 
 • [ArcGIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-)  <p>
-
----
-# 💻 C++ <br>
-
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad, Arduino  | TBD  |
-| [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Arduino  | TBD  |
 
 ---
 # 🐍 Python <br>
@@ -29,6 +21,14 @@ Welcome to my portfolio! <p>
 | ------------- | ------------- | ------------- | ------------- |
 | [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | Mar 2024  | R, ArcGIS Online, ArcGIS StoryMaps  |   |
 | [🔬 R Neurohacking](https://github.com/redefiningvicky/R-Neurohacking)  | Mar 2025  | R  |   |
+
+---
+# 💻 C++ <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad, Arduino  | TBD  |
+| [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Arduino  | TBD  |
 
 ---
 # 📊 Microsoft Excel <br>
