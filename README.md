@@ -35,7 +35,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | Dec 2024  | Microsoft Excel, PSPP  |   |
+| [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | Dec 2024  | Microsoft Excel, PSPP, Google Slides  |   |
 
 ---
 # 🌍 ArcGIS <br>
