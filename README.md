@@ -43,7 +43,7 @@ Welcome to my portfolio! <p>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | Aug 2024 | ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel  |   |
-| [🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan](https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten)  | Aug 2024 | ArcGIS Online, ArcGIS Dashboard  |   |
+| [🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan](https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten)  | Aug 2024 | ArcGIS Online, ArcGIS Field Maps, ArcGIS Dashboard  |   |
 | [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | Dec 2024  | ArcGIS Online, ArcGIS StoryMaps  |   |
 
 ---
