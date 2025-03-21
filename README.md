@@ -27,8 +27,8 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad, Arduino  | TBD  |
-| [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, AutoCAD, Arduino  | TBD  |
+| [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad, Circuit Diagram, Arduino  | TBD  |
+| [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Circuit Diagram, Arduino, AutoCAD  | TBD  |
 
 ---
 # 📊 Microsoft Excel <br>
