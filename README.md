@@ -42,7 +42,7 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | Aug 2024 | ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel  | Microsoft Excel and ArcGIS Online were used to map, visualize, and analyze the contributions of Desuups in Bhutan, primarily focusing on their role in the National Service Water Project while also acknowledging other National Service Projects.  |
+| [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | Aug 2024 | ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel  | ArcGIS Online and Microsoft Excel were used to map, visualize, and analyze the contributions of Desuups in Bhutan, primarily focusing on their role in the National Service Water Project while also acknowledging other National Service Projects.  |
 | [🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan](https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten)  | Aug 2024 | ArcGIS Online, ArcGIS Field Maps, ArcGIS Dashboard  |  ArcGIS Field Maps and ArcGIS Dashboards were used to map the hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan. |
 | [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | Dec 2024  | ArcGIS Online, ArcGIS StoryMaps  |  ArcGIS StoryMaps was used to create Portraits of a Youth Social Movement, focusing on the Young Invincibles (YI) as an example of youth advocacy in education. |
 
