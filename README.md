@@ -7,6 +7,7 @@ Welcome to my portfolio! <p>
 • [Microsoft](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-microsoft-excel-)  <p> 
 • [GIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-gis-)  <p>
 • [Mapping](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-mapping-)  <p>
+
 ---
 # 🐍 Python <br>
 
