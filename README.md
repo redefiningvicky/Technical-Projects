@@ -4,9 +4,9 @@ Welcome to my portfolio! <p>
 • [Python](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [R](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [C++](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-c-)  <p>
-• [Microsoft Excel](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-microsoft-excel-)  <p> 
-• [ArcGIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-arcgis-)  <p>
-
+• [Microsoft](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-microsoft-excel-)  <p> 
+• [GIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-gis-)  <p>
+• [Mapping](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-mapping-)  <p>
 ---
 # 🐍 Python <br>
 
@@ -31,19 +31,26 @@ Welcome to my portfolio! <p>
 | [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Circuit Diagram, Arduino, AutoCAD  | TBD  |
 
 ---
-# 📊 Microsoft Excel <br>
+# 📊 Microsoft <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | Dec 2024  | Microsoft Excel, PSPP, Google Slides  | Microsoft Excel and PSPP were used for Descriptive Statistics, Bivariate Correlations, and Ordinary Least Squares Regression to analyze how variables affect women’s entrepreneurship globally, aligned with SDGs #5 and #8.  |
 
 ---
-# 🌍 ArcGIS <br>
+# 🌍 GIS <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🕊️ Dessups: The Guardians of Peace](https://github.com/redefiningvicky/Dessups-The-Guardians-of-Peace)  | Aug 2024 | ArcGIS Online, ArcGIS StoryMaps, Microsoft Excel  | ArcGIS Online and Microsoft Excel were used to map, visualize, and analyze the contributions of Desuups in Bhutan, primarily focusing on their role in the National Service Water Project while also acknowledging other National Service Projects.  |
 | [🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan](https://github.com/redefiningvicky/Hike-to-Khamsum-Yulley-Namgyal-Chorten)  | Aug 2024 | ArcGIS Online, ArcGIS Field Maps, ArcGIS Dashboard  |  ArcGIS Field Maps and ArcGIS Dashboards were used to map the hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan. |
 | [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | Dec 2024  | ArcGIS Online, ArcGIS StoryMaps  |  ArcGIS StoryMaps was used to create Portraits of a Youth Social Movement, focusing on the Young Invincibles (YI) as an example of youth advocacy in education. |
+
+---
+# 🌍 Mapping <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [♀️ Gender Equity in Davis, California, United States](https://github.com/redefiningvicky/Gender-Equity-in-Davis)  | May 2024 | Google Maps, Canva  | TBA  |
 
 ---
