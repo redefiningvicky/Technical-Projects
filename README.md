@@ -48,7 +48,7 @@ Welcome to my portfolio! <p>
 | [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | Dec 2024  | ArcGIS Online, ArcGIS StoryMaps  |  ArcGIS StoryMaps was used to create Portraits of a Youth Social Movement, focusing on the Young Invincibles (YI) as an example of youth advocacy in education. |
 
 ---
-# 🌍 Mapping <br>
+# 🗺️ Mapping <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
