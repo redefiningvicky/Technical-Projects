@@ -52,6 +52,6 @@ Welcome to my portfolio! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [♀️ Gender Equity in Davis, California, United States](https://github.com/redefiningvicky/Gender-Equity-in-Davis)  | May 2024 | Google Maps, Canva  | TBA  |
+| [♀️ Gender Equity in Davis, California, United States](https://github.com/redefiningvicky/Gender-Equity-in-Davis)  | May 2024 | Google Maps, Canva  | Google Maps and Canva were used to create a community asset map showcasing gender-inclusive resources in Davis, California, United States.  |
 
 ---
