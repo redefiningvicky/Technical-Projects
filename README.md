@@ -4,9 +4,9 @@ Welcome to my portfolio! <p>
 • [Python](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [R](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
 • [C++](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-c-)  <p>
+• [Google DeepMind](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-c-)  <p>
 • [Microsoft](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-microsoft-excel-)  <p> 
 • [GIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-gis-)  <p>
-• [Mapping](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-mapping-)  <p>
 
 ---
 # 🐍 Python <br>
@@ -30,6 +30,13 @@ Welcome to my portfolio! <p>
 | ------------- | ------------- | ------------- | ------------- |
 | [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad, Circuit Diagram, Arduino  | TBD  |
 | [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Circuit Diagram, Arduino, AutoCAD  | TBD  |
+
+---
+# 🤖 Google DeepMind <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| TBA | June 2025  | Google DeepMind, AlphaFold3 Server, ChimeraX  | TBA  |
 
 ---
 # 📊 Microsoft <br>
