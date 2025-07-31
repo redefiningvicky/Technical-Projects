@@ -1,4 +1,4 @@
-# 📁 Vicky's Technical Projects
+# 📚 Vicky's Technical Projects
 Welcome to my technical projects! <p>
 ## 📑 Table of Contents <br>
 • [Python](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
