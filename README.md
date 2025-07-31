@@ -1,12 +1,12 @@
-# 📁 Vicky's Portfolio
-Welcome to my portfolio! <p>
+# 📁 Vicky's Technical Projects
+Welcome to my technical projects! <p>
 ## 📑 Table of Contents <br>
-• [Python](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
-• [R](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-python-)  <p>
-• [C++](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-c-)  <p>
-• [Google DeepMind](https://github.com/redefiningvicky/Portfolio-Guide/edit/main/README.md#-google-deepmind-)  <p>
-• [Microsoft](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-microsoft-excel-)  <p> 
-• [GIS](https://github.com/redefiningvicky/Portfolio-Guide?tab=readme-ov-file#-gis-)  <p>
+• [Python](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
+• [R](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
+• [C++](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-c-)  <p>
+• [Google DeepMind](https://github.com/redefiningvicky/Technical-Projects/edit/main/README.md#-google-deepmind-)  <p>
+• [Microsoft](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-microsoft-excel-)  <p> 
+• [GIS](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-gis-)  <p>
 
 ---
 # 🐍 Python <br>
