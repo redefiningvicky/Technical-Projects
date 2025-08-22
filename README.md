@@ -13,7 +13,7 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🧸 Street Children in India](https://github.com/redefiningvicky/Street-Children-in-India) | May 2025  | Python  | Python was used to visualize 2023 street children data in India, generating bar graphs by state and living situation.  |
+| [🧸 Street Children in India](https://github.com/redefiningvicky/Street-Children-in-India) | May 2025  | Python  | Python was used to visualize street children data in India, generating bar graphs by state and living situation.  |
 
 ---
 # 🔵 R <br>
