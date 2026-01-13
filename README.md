@@ -28,8 +28,8 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🥿 Marry Me? Shoe](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad, Circuit Diagram, Arduino  | TBD  |
-| [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Circuit Diagram, Arduino, AutoCAD  | TBD  |
+| [🥿 Marry Me? Shoe - To be Uploaded](https://github.com/redefiningvicky/Marry-Me-Shoe)  | Apr 2024  | C++, Tinkercad, Circuit Diagram, Arduino  | TBD  |
+| [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors - To be Uploaded](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Circuit Diagram, Arduino, AutoCAD  | TBD  |
 
 ---
 # 🤖 Google DeepMind <br>
