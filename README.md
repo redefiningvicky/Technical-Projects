@@ -58,10 +58,10 @@ Welcome to my technical projects! <p>
 | [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | Dec 2024  | Microsoft Excel, PSPP, Google Slides  | Microsoft Excel and PSPP were used for Descriptive Statistics, Bivariate Correlations, and Ordinary Least Squares Regression to analyze how variables affect women’s entrepreneurship globally, aligned with SDGs #5 and #8.  |
 
 ---
-# 📊 Tableau <br>
+# ➕ Tableau <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| TBA | January 2026  | Tableau, Microsoft Exel  | Tableau and Microsoft Excel were used for ...  |
+| ➕ | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
 
 ---
