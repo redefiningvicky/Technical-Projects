@@ -55,8 +55,8 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🧠 Clinical Consciousness Status Analysis](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to filter medical hierarchies, creating a direct link between neurological injury and critical care requirements.  |
-| [🧠 Neurological Impairment Patient Outcomes](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to map patient severity against discharge data, demonstrating how brain function scores predict patient disposition outcomes.  |
+| [🩺 Clinical Consciousness Status Analysis](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to filter medical hierarchies, creating a direct link between neurological injury and critical care requirements.  |
+| [🏠 Neurological Impairment Patient Outcomes](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to map patient severity against discharge data, demonstrating how brain function scores predict patient disposition outcomes.  |
 
 ---
 # 🧬 Bioinformatics and Structural Biology <br>
