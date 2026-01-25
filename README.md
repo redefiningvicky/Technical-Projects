@@ -62,6 +62,7 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| ➕ | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
+| [🧠 Clinical Consciousness Status Analysis](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
+| [🧠 Neurological Impairment Patient Outcomes](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
 
 ---
