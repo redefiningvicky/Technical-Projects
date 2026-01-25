@@ -4,10 +4,10 @@ Welcome to my technical projects! <p>
 • [Python](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
 • [R](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
 • [C++](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-c-)  <p>
-• [GIS](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-gis-)  <p>
-• [Google DeepMind](https://github.com/redefiningvicky/Technical-Projects/edit/main/README.md#-google-deepmind-)  <p>
 • [PSPP](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-pspp-)  <p> 
+• [GIS](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-gis-)  <p>
 • [Tableau](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-tableau-)  <p>
+• [AlphaFold3 Server](https://github.com/redefiningvicky/Technical-Projects/edit/main/README.md#-alphafold3-server-)  <p>
 
 ---
 # 🐍 Python <br>
