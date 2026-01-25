@@ -59,10 +59,10 @@ Welcome to my technical projects! <p>
 | [🧠 Neurological Impairment Patient Outcomes](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
 
 ---
-# 🧬 ChimeraX <br>
+# 🧬 AlphaFold3 Server <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| TBA | June 2025  | ChimeraX, AlphaFold3 Server, Google DeepMind | TBA  |
+| TBA | June 2025  | AlphaFold3 Server, ChimeraX, Google DeepMind | TBA  |
 
 ---
