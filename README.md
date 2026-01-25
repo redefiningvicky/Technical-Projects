@@ -44,13 +44,6 @@ Welcome to my technical projects! <p>
 | [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | Dec 2024  | ArcGIS (Online & StoryMaps)  |  ArcGIS (Online & StoryMaps) were used to create portraits of a youth social movement, focusing on the Young Invincibles (YI) as an example of youth advocacy in education. |
 
 ---
-# 🤖 Google DeepMind <br>
-
-| Project Link  | Completion Date | Tools | Project Description |
-| ------------- | ------------- | ------------- | ------------- |
-| TBA | June 2025  | Google DeepMind, AlphaFold3 Server, ChimeraX  | TBA  |
-
----
 # 📊 PSPP <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
@@ -64,5 +57,12 @@ Welcome to my technical projects! <p>
 | ------------- | ------------- | ------------- | ------------- |
 | [🧠 Clinical Consciousness Status Analysis](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
 | [🧠 Neurological Impairment Patient Outcomes](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
+
+---
+# 🧬 ChimeraX <br>
+
+| Project Link  | Completion Date | Tools | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| TBA | June 2025  | ChimeraX, AlphaFold3 Server, Google DeepMind | TBA  |
 
 ---
