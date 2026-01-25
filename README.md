@@ -7,7 +7,7 @@ Welcome to my technical projects! <p>
 • [PSPP](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-pspp-)  <p> 
 • [GIS](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-gis-)  <p>
 • [Tableau](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-tableau-)  <p>
-• [Bioinformatics & Structural Biology](https://github.com/redefiningvicky/Technical-Projects/edit/main/README.md#-bioinformatics-&-structural-biology-)  <p>
+• [Bioinformatics and Structural Biology](https://github.com/redefiningvicky/Technical-Projects/edit/main/README.md#-bioinformatics-and-structural-biology-)  <p>
 
 ---
 # 🐍 Python <br>
@@ -59,7 +59,7 @@ Welcome to my technical projects! <p>
 | [🧠 Neurological Impairment Patient Outcomes](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes) | January 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used for ...  |
 
 ---
-# 🧬 Bioinformatics & Structural Biology <br>
+# 🧬 Bioinformatics and Structural Biology <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
