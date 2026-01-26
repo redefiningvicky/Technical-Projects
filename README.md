@@ -22,7 +22,7 @@ Welcome to my technical projects! <p>
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🧠 Educational Attainment and Mental Health](https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health)  | Mar 2024  | R, ArcGIS (Online & StoryMaps)  | R and ArcGIS (Online & StoryMaps) were used to explore the correlation between educational attainment and mental health in Sacramento County, California, USA.  |
-| [🔬 R Neurohacking Part 1](https://github.com/redefiningvicky/R-Neurohacking-Part-1)  | August 2025  | R  | R was used to manipulate, process, and analyze brain MRI data, including correcting image imperfections, extracting the brain, aligning images, and processing NIfTI images.  |
+| [🔬 R Neurohacking Part 1](https://github.com/redefiningvicky/R-Neurohacking-Part-1)  | Aug 2025  | R  | R was used to manipulate, process, and analyze brain MRI data, including correcting image imperfections, extracting the brain, aligning images, and processing NIfTI images.  |
 
 ---
 # 💻 C++ <br>
@@ -63,6 +63,6 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| TBA | June 2025  | AlphaFold3 Server, ChimeraX, Google DeepMind | TBA  |
+| TBA | Jun 2025  | AlphaFold3 Server, ChimeraX, Google DeepMind | TBA  |
 
 ---
