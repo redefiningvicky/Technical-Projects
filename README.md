@@ -55,7 +55,7 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🩺 Clinical Consciousness Status Analysis](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis) | Jan 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to filter HCAI hospital inpatient data, linking neurological injury levels to the specific clinical interventions required for patient care.  |
+| [🩺 Clinical Consciousness Status Analysis](https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis) | Jan 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to filter HCAI hospital inpatient data, linking neurological injury levels to the specific clinical interventions required for patient care across California.  |
 | [🔢 Glasgow Coma Scale (GCS) Analysis](https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis) | Jan 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to visualize HCAI hospital inpatient data, demonstrating how GCS scores define clinical acuity across California.  |
 
 ---
