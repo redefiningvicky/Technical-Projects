@@ -8,6 +8,7 @@ Welcome to my technical projects! <p>
 • [GIS](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-gis-)  <p>
 • [Tableau](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-tableau-)  <p>
 • [Bioinformatics and Structural Biology](https://github.com/redefiningvicky/Technical-Projects/edit/main/README.md#-bioinformatics-and-structural-biology-)  <p>
+• [Microsoft Access](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-microsoft-access)  <p>
 
 ---
 # 🐍 Python <br>
@@ -70,6 +71,6 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| TBA | October 2026  | Microsoft Office | Microsoft Access was used to link YC partners to their companies.  |
+| [🟧 YC Partners and Startups](https://github.com/redefiningvicky/YC-Partners-and-Startups) | October 2026  | Microsoft Office | Microsoft Access was used to link YC partners to their companies.  |
 
 ---
