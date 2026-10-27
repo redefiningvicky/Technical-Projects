@@ -71,6 +71,6 @@ Welcome to my technical projects! <p>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [🟧 YC Partners and Startups](https://github.com/redefiningvicky/YC-Partners-and-Startups) | Oct 2026  | Microsoft Access | Microsoft Access was used to link YC partners to their companies.  |
+| [🟧 YC Partners and Startups](https://github.com/redefiningvicky/YC-Partners-and-Startups) | Oct 2026  | Microsoft Access | Microsoft Access was used to link Y Combinator partners to their companies.  |
 
 ---
