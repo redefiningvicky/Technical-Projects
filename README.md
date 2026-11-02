@@ -1,6 +1,6 @@
 # 📐 Vicky's Technical Projects
 Welcome to my technical projects! <p>
-# 📑 Table of Contents <br>
+## 📑 Table of Contents <br>
 • [Python](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
 • [R](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
 • [C++](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-c-)  <p>
@@ -11,14 +11,14 @@ Welcome to my technical projects! <p>
 • [Microsoft Access](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#%EF%B8%8F-microsoft-access-)  <p>
 
 ---
-# 🐍 Python <br>
+## 🐍 Python <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🧸 Street Children in India](https://github.com/redefiningvicky/Street-Children-in-India) | May 2025  | Python  | Python was used to visualize street children data in India, generating bar graphs by state and living situation.  |
 
 ---
-# 🔵 R <br>
+## 🔵 R <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -26,7 +26,7 @@ Welcome to my technical projects! <p>
 | [🔬 R Neurohacking Part 1](https://github.com/redefiningvicky/R-Neurohacking-Part-1)  | Aug 2025  | R  | R was used to manipulate, process, and analyze brain MRI data, including correcting image imperfections, extracting the brain, aligning images, and processing NIfTI images.  |
 
 ---
-# 💻 C++ <br>
+## 💻 C++ <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -34,7 +34,7 @@ Welcome to my technical projects! <p>
 | [🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors - TBA](https://github.com/redefiningvicky/Wildfire-Detection-System)  | Jun 2024  | C++, Tinkercad, Circuit Diagram, Arduino, AutoCAD  | TBA  |
 
 ---
-# 🌍 GIS <br>
+## 🌍 GIS <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -45,14 +45,14 @@ Welcome to my technical projects! <p>
 | [📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement)  | Dec 2024  | ArcGIS Online, ArcGIS StoryMaps  |  ArcGIS Online and ArcGIS StoryMaps were used to create portraits of a youth social movement, focusing on the Young Invincibles (YI) as an example of youth advocacy in education. |
 
 ---
-# 📊 PSPP <br>
+## 📊 PSPP <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | [🤝 Gender in Entrepreneurship](https://github.com/redefiningvicky/Gender-in-Entrepreneurship)  | Dec 2024  | PSPP, Microsoft Excel, Google Slides  | PSPP, Microsoft Excel, and Google Slides were used for Descriptive Statistics, Bivariate Correlations, and Ordinary Least Squares Regression to analyze how variables affect women’s entrepreneurship globally, aligned with SDGs #5 and #8.  |
 
 ---
-# ➕ Tableau <br>
+## ➕ Tableau <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
@@ -60,14 +60,14 @@ Welcome to my technical projects! <p>
 | [🔢 Glasgow Coma Scale (GCS) Analysis](https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis) | Jan 2026  | Tableau, Microsoft Excel  | Tableau and Microsoft Excel were used to visualize HCAI hospital inpatient data, demonstrating how GCS scores define clinical acuity across California.  |
 
 ---
-# 🧬 Bioinformatics and Structural Biology <br>
+## 🧬 Bioinformatics and Structural Biology <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
 | TBA | Jun 2025  | AlphaFold3 Server, ChimeraX, Google DeepMind | TBA  |
 
 ---
-# 🗄️ Microsoft Access <br>
+## 🗄️ Microsoft Access <br>
 
 | Project Link  | Completion Date | Tools | Project Description |
 | ------------- | ------------- | ------------- | ------------- |
