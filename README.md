@@ -1,6 +1,6 @@
 # 📐 Vicky's Technical Projects
 Welcome to my technical projects! <p>
-## 📑 Table of Contents <br>
+# 📑 Table of Contents <br>
 • [Python](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
 • [R](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-python-)  <p>
 • [C++](https://github.com/redefiningvicky/Technical-Projects?tab=readme-ov-file#-c-)  <p>
