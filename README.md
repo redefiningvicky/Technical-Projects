@@ -334,7 +334,7 @@
   &nbsp; • &nbsp;
   <strong>View BSCiSS:</strong>
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/BSCISS_2023_GIF.gif">
-    View GIF
+    GIF
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
