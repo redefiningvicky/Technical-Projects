@@ -252,11 +252,11 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_Table.png">
-    View Partners Table Preview
+    View Partners
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Startup_Directory_Table.png">
-    View Startups Table Preview
+    View Startups
   </a>
 </p>
 
