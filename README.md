@@ -147,11 +147,11 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/main/Poster/Gender_Equity_in_Davis_RGB.pdf">
-    View RGB PDF
+    View Poster RGB
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/main/Poster/Gender_Equity_in_Davis_CMYK.pdf">
-    View CMYK PDF
+    View Poster CMYK
   </a>
   &nbsp; • &nbsp;
   <a href="https://www.google.com/maps/d/u/2/viewer?mid=1JCHQmCF28HG8ACYw9BgTf9y4J9lAowo&amp;ll=38.5426388946742%2C-121.75602006538955&amp;z=15">
