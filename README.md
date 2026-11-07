@@ -403,64 +403,66 @@
     View Project
   </a>
   &nbsp; • &nbsp;
+  <strong>R Script:</strong>
+  &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_01/R_Neurohacking_Part_01.Rmd">
-    View R Script 01
+    01
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_02/R_Neurohacking_Part_02.Rmd">
-    View R Script 02
+    02
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_03/R_Neurohacking_Part_03.Rmd">
-    View R Script 03
+    03
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_04/R_Neurohacking_Part_04.Rmd">
-    View R Script 04
+    04
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_05/R_Neurohacking_Part_05.Rmd">
-    View R Script 05
+    05
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_06/R_Neurohacking_Part_06.Rmd">
-    View R Script 06
+    06
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_07/R_Neurohacking_Part_07.Rmd">
-    View R Script 07
+    07
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_08/R_Neurohacking_Part_08.Rmd">
-    View R Script 08
+    08
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_09/R_Neurohacking_Part_09.Rmd">
-    View R Script 09
+    09
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_10/R_Neurohacking_Part_10.Rmd">
-    View R Script 10
+    10
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_11/R_Neurohacking_Part_11.Rmd">
-    View R Script 11
+    11
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_12/R_Neurohacking_Part_12.Rmd">
-    View R Script 12
+    12
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_13/R_Neurohacking_Part_13.Rmd">
-    View R Script 13
+    13
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_14/R_Neurohacking_Part_14.Rmd">
-    View R Script 14
+    14
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_15/R_Neurohacking_Part_15.Rmd">
-    View R Script 15
+    15
   </a>
 
 <hr>
