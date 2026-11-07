@@ -332,10 +332,11 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/NCPCR_2023_Python.py">
-    View Python 1
+    View NCPCR Python Script
   </a>
+  &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/BSCiSS_2023_Python.py">
-    View Python 2
+    View BSCiSS Python Script
   </a>
 </p>
 
@@ -369,7 +370,7 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health/blob/main/Code/Educational_Attainment_and_Mental_Health.Rmd">
-    View R
+    View R Script
   </a>
 </p>
 
