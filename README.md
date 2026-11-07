@@ -330,7 +330,13 @@
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
     View Graph 2
   </a>
-
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/NCPCR_2023_Python.py">
+    View Python 1
+  </a>
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/BSCiSS_2023_Python.py">
+    View Python 2
+  </a>
 </p>
 
 <hr>
@@ -360,6 +366,10 @@
   &nbsp; • &nbsp;
   <a href="https://arcg.is/0LeCqz">
     View StoryMaps
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Educational-Attainment-and-Mental-Health/blob/main/Code/Educational_Attainment_and_Mental_Health.Rmd">
+    View R
   </a>
 </p>
 
