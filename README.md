@@ -319,30 +319,30 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <strong>NCPCR:</strong>
+  <strong>View NCPCR:</strong>
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/NCPCR_2023_GIF.gif">
-    View GIF
+    GIF
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/NCPCR_2023_Graph.png">
-    View Graph
+    Graph
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/NCPCR_2023_Python.py">
-    View Python
+    Python
   </a>
   &nbsp; • &nbsp;
-  <strong>BSCiSS:</strong>
+  <strong>View BSCiSS:</strong>
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/BSCISS_2023_GIF.gif">
     View GIF
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
-    View Graph
+    Graph
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/BSCiSS_2023_Python.py">
-    View Python
+    Python
   </a>
 </p>
 
@@ -403,7 +403,7 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <strong>R Script:</strong>
+  <strong>R:</strong>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_01/R_Neurohacking_Part_01.Rmd">
     1
