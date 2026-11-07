@@ -403,8 +403,7 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <strong>R:</strong>
-  &nbsp; • &nbsp;
+  <strong> View R:</strong>
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_01/R_Neurohacking_Part_01.Rmd">
     1
   </a>
