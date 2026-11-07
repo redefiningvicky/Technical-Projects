@@ -288,6 +288,10 @@
   <a href="https://github.com/redefiningvicky/Gender-in-Entrepreneurship/blob/main/Presentation/Gender_in_Entrepreneurship.pdf">
     View PDF
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Gender-in-Entrepreneurship/tree/main/4_PSPP_Data">
+    View PSPP
+  </a>
 </p>
 
 <hr>
@@ -315,28 +319,30 @@
     View Project
   </a>
   &nbsp; • &nbsp;
+  <strong>NCPCR:</strong>
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/NCPCR_2023_GIF.gif">
-    View GIF 1
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/BSCISS_2023_GIF.gif">
-    View GIF 2
+    View GIF
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/NCPCR_2023_Graph.png">
-    View Graph 1
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
-    View Graph 2
+    View Graph
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/NCPCR_2023_Python.py">
-    View NCPCR Python Script
+    View Python Script
+  </a>
+  &nbsp; • &nbsp;
+  <strong>BSCiSS:</strong>
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/BSCISS_2023_GIF.gif">
+    View GIF
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
+    View Graph
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/BSCiSS_2023_Python.py">
-    View BSCiSS Python Script
+    View Python Script
   </a>
 </p>
 
