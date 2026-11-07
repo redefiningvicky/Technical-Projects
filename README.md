@@ -329,7 +329,7 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/NCPCR_2023_Python.py">
-    View Python Script
+    View Python
   </a>
   &nbsp; • &nbsp;
   <strong>BSCiSS:</strong>
@@ -342,7 +342,7 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/03_Python/BSCiSS_2023_Python.py">
-    View Python Script
+    View Python
   </a>
 </p>
 
@@ -406,39 +406,39 @@
   <strong>R Script:</strong>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_01/R_Neurohacking_Part_01.Rmd">
-    01
+    1
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_02/R_Neurohacking_Part_02.Rmd">
-    02
+    2
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_03/R_Neurohacking_Part_03.Rmd">
-    03
+    3
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_04/R_Neurohacking_Part_04.Rmd">
-    04
+    4
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_05/R_Neurohacking_Part_05.Rmd">
-    05
+    5
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_06/R_Neurohacking_Part_06.Rmd">
-    06
+    6
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_07/R_Neurohacking_Part_07.Rmd">
-    07
+    7
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_08/R_Neurohacking_Part_08.Rmd">
-    08
+    8
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_09/R_Neurohacking_Part_09.Rmd">
-    09
+    9
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_10/R_Neurohacking_Part_10.Rmd">
