@@ -315,17 +315,22 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Street-Children-in-India/tree/main/03_Python">
-    View Code
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/NCPCR_2023_GIF.gif">
+    View GIF 1
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Street-Children-in-India/tree/main/04_Graph">
-    View Graphs
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
+    View GIF 2
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Street-Children-in-India/tree/main/05_GIF">
-    View GIFs
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/NCPCR_2023_Graph.png">
+    View Graph 1
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
+    View Graph 2
+  </a>
+
 </p>
 
 <hr>
@@ -379,10 +384,6 @@
 <p>
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1">
     View Project
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/tree/main/R_Neurohacking_Data">
-    View Data
   </a>
 </p>
 
