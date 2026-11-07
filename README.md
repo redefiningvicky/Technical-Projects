@@ -146,17 +146,18 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://www.google.com/maps/d/u/2/viewer?mid=1JCHQmCF28HG8ACYw9BgTf9y4J9lAowo&amp;ll=38.5426388946742%2C-121.75602006538955&amp;z=15">
-    View Map
-  </a>
-  &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/main/Poster/Gender_Equity_in_Davis_RGB.pdf">
-    Poster RGB
+    View Poster RGB
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/main/Poster/Gender_Equity_in_Davis_CMYK.pdf">
-    Poster CMYK
+    View Poster CMYK
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.google.com/maps/d/u/2/viewer?mid=1JCHQmCF28HG8ACYw9BgTf9y4J9lAowo&amp;ll=38.5426388946742%2C-121.75602006538955&amp;z=15">
+    View Map
+  </a>
+
 </p>
 
 <br>
@@ -250,16 +251,12 @@
     View Project
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups.accdb">
-    View Database
-  </a>
-  &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_Table.png">
-    Partners Table
+    View Partners Table Preview
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Startup_Directory_Table.png">
-    Startups Table
+    View Startups Table Preview
   </a>
 </p>
 
@@ -387,10 +384,6 @@
   <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/tree/main/R_Neurohacking_Data">
     View Data
   </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/tree/main/R_Neurohacking_Results_Part_01">
-    View Results
-  </a>
 </p>
 
 <hr>
@@ -416,10 +409,6 @@
 <p>
   <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis">
     View Project
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Clinical-Consciousness-Status-Analysis/blob/main/Clinical_Consciousness_Status_Analysis.png">
-    View Preview
   </a>
   &nbsp; • &nbsp;
   <a href="https://public.tableau.com/views/ClinicalConsciousnessStatusAnalysisforCaliforniaHospitals2024/Dashboard1">
@@ -448,10 +437,6 @@
 <p>
   <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis">
     View Project
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Glasgow-Coma-Scale-Analysis/blob/main/Glasgow_Coma%20Scale_Analysis.png">
-    View Preview
   </a>
   &nbsp; • &nbsp;
   <a href="https://public.tableau.com/views/GlasgowComaScaleGCSAnalysisforCaliforniaHospitals2024/Dashboard1">
