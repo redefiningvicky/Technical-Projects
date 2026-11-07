@@ -319,7 +319,7 @@
     View GIF 1
   </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/04_Graph/BSCiSS_2023_Graph.png">
+  <a href="https://github.com/redefiningvicky/Street-Children-in-India/blob/main/05_GIF/BSCISS_2023_GIF.gif">
     View GIF 2
   </a>
   &nbsp; • &nbsp;
